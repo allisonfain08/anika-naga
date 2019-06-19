@@ -1,0 +1,33 @@
+/* <body> */
+.border{
+  background-color: pink;
+}
+.name{
+
+  font-family: 'Luckiest Guy', cursive;
+  color: #965EFD;
+
+
+}
+body{
+   background-image: url(https://img.tineye.com/result/292f189e7ee1a89537060d92f7443eafb56021d651e64fd16d329392fe73d955?size=160);
+   background-size: 300px;
+}
+.bleh{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.adjectives{
+
+  font-family : 'Amatic SC', cursive;
+}
+.pics{
+  display: inline;
+}
+#smol{
+  margin-bottom: 160px;
+}
+p{
+  font-family: 'Fredericka the Great', cursive;
+}
+/* </body> */
